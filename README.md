@@ -2,7 +2,9 @@
 KVO在两个页面间传值
 
 ###Demo运行环境
+
 Xcode: 8.0(8A218a)
+
 iOS Simulator: iPhone5S
 
 ###实现效果：
